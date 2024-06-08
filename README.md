@@ -1,1 +1,2 @@
 # EduSync
+!st project
